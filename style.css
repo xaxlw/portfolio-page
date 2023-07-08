@@ -79,7 +79,7 @@ header .navegacao-primaria li a:hover::after {
     animation: inicializar .7s forwards;
     background-color: #000;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /*grid-template-columns: 1fr 1fr;*/
     justify-content: space-around;
     align-items: center;
     gap: 60px;
